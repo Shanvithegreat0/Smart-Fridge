@@ -9,11 +9,12 @@
 
 2. Here is the output 
 
-<img width="674" alt="image" src="https://github.com/HariOm987/smart-fridge/assets/103589784/30b8770a-e8fe-4793-8bff-f4240a1e5846">
+<img width="335" alt="2" src="https://github.com/user-attachments/assets/f52eb484-4899-4054-a09c-3408d6a461d7">
+
 
 3. Simlarly the model predicts the Wieght and Expire days of the Food and stores in database as shown
 
-<img width="335" alt="image" src="https://github.com/HariOm987/smart-fridge/assets/103589784/b9579134-2f6e-4db5-8a57-d66e2a11aa9c">
+<img width="674" alt="3" src="https://github.com/user-attachments/assets/c3939330-b0cc-49ea-87d9-c0be864e02ab">
 
 4. Now this database will be accessible by the Whatsapp Bot which we integrated using Twilio 
 
@@ -21,7 +22,8 @@
 
 6. Below is attached Chat with Whatsapp Bot 
 
-![image](https://github.com/HariOm987/smart-fridge/assets/103589784/310598b6-7c2a-41c9-b09e-c60536140b43)
+![4](https://github.com/user-attachments/assets/469a2577-c6fa-4e95-82c0-44f6834c81e9)
+
 
 
 
