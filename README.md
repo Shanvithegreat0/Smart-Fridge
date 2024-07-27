@@ -2,7 +2,8 @@
 
 1. _Test Image_
 
-<img width="486" alt="image" src="https://github.com/HariOm987/smart-fridge/assets/103589784/9332c8d5-8ef2-4574-8277-e8a8d92e94d2">
+<img width="486" alt="1" src="https://github.com/user-attachments/assets/9a4c5cc2-a993-48d6-aef9-6a5d3b120ed5">
+
 
  _Above given is the test image_
 
